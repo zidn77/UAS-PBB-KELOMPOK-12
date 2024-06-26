@@ -1,7 +1,7 @@
 Aplikasi Cuaca 
 
 
-Anggota Kelompok :
+Anggota Kelompok 12 :
 1. Muhammad Zidan - 2211102441001
 2. David Brillian - 2211102441002
 3. Ridho Rahmaesa - 2211102441018
